@@ -17,7 +17,7 @@ header{
   align-items: center;
   justify-content: center;
 }
-.div-1{
+.latest-news-section{
   border: 1px solid white;
   border-radius: 10px;
   background-color: white;
@@ -36,7 +36,7 @@ header{
   padding: 20px;
 }
 
-.div-3{
+.pictorial-news-section{
   text-align: center;
   border: 1px solid white;
   border-radius: 10px;
